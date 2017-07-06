@@ -1,0 +1,6 @@
+﻿  main.cpp
+  GameSystem.cpp
+d:\university-23-02-17\mazegame3\mazegame3\gamesystem.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\university-23-02-17\mazegame3\mazegame3\gamesystem.cpp(73): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  MazeGame3.vcxproj -> D:\University-23-02-17\MazeGame3\x64\Debug\MazeGame3.exe

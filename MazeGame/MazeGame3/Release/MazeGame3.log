@@ -1,0 +1,38 @@
+﻿  Dice.cpp
+  Distance.cpp
+  GameSystem.cpp
+GameSystem.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+GameSystem.cpp(121): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(141): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(142): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(161): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(173): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+GameSystem.cpp(190): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(201): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+GameSystem.cpp(238): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(248): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+GameSystem.cpp(266): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+GameSystem.cpp(336): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(510): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+GameSystem.cpp(512): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(513): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(821): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(822): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(876): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(879): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(890): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(944): warning C4309: 'initializing': truncation of constant value
+GameSystem.cpp(1032): warning C4018: '<': signed/unsigned mismatch
+GameSystem.cpp(1083): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Monster.cpp
+  Player.cpp
+  Sprite.cpp
+  Tile.cpp
+  Generating code
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(1026): warning C4715: 'GameSystem::playerMove': not all control paths return a value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(109): warning C4715: 'GameSystem::menu': not all control paths return a value
+  All 533 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MazeGame3.vcxproj -> C:\Users\Alex\Documents\University\CS1PR16\Final\MazeGame3-11-04-17-16.57\Release\MazeGame3.exe
+  MazeGame3.vcxproj -> C:\Users\Alex\Documents\University\CS1PR16\Final\MazeGame3-11-04-17-16.57\Release\MazeGame3.pdb (Full PDB)

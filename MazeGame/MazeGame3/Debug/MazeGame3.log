@@ -1,0 +1,28 @@
+﻿  GameSystem.cpp
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(141): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(142): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(173): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(201): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(248): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(266): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(510): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(512): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(513): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(821): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(822): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(876): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(879): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(890): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(944): warning C4309: 'initializing': truncation of constant value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(1032): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(1083): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(109): warning C4715: 'GameSystem::menu': not all control paths return a value
+c:\users\alex\documents\university\cs1pr16\final\mazegame3-11-04-17-16.57\mazegame3\gamesystem.cpp(1026): warning C4715: 'GameSystem::playerMove': not all control paths return a value
+  MazeGame3.vcxproj -> C:\Users\Alex\Documents\University\CS1PR16\Final\MazeGame3-11-04-17-16.57\Debug\MazeGame3.exe
+  MazeGame3.vcxproj -> C:\Users\Alex\Documents\University\CS1PR16\Final\MazeGame3-11-04-17-16.57\Debug\MazeGame3.pdb (Full PDB)
